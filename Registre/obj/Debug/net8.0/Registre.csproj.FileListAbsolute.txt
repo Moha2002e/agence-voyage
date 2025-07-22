@@ -1,0 +1,24 @@
+C:\Users\pasch\Documents\Mes-codes\c#\perso\Registre\bin\Debug\net8.0\Registre.deps.json
+C:\Users\pasch\Documents\Mes-codes\c#\perso\Registre\bin\Debug\net8.0\Registre.dll
+C:\Users\pasch\Documents\Mes-codes\c#\perso\Registre\bin\Debug\net8.0\Registre.pdb
+C:\Users\pasch\Documents\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\Registre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasch\Documents\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\Registre.AssemblyInfoInputs.cache
+C:\Users\pasch\Documents\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\Registre.AssemblyInfo.cs
+C:\Users\pasch\Documents\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\Registre.csproj.CoreCompileInputs.cache
+C:\Users\pasch\Documents\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\Registre.sourcelink.json
+C:\Users\pasch\Documents\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\Registre.dll
+C:\Users\pasch\Documents\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\refint\Registre.dll
+C:\Users\pasch\Documents\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\Registre.pdb
+C:\Users\pasch\Documents\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\ref\Registre.dll
+C:\Users\BD\Documents\bloc 2\codage\Mes-codes\c#\perso\Registre\bin\Debug\net8.0\Registre.deps.json
+C:\Users\BD\Documents\bloc 2\codage\Mes-codes\c#\perso\Registre\bin\Debug\net8.0\Registre.dll
+C:\Users\BD\Documents\bloc 2\codage\Mes-codes\c#\perso\Registre\bin\Debug\net8.0\Registre.pdb
+C:\Users\BD\Documents\bloc 2\codage\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\Registre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BD\Documents\bloc 2\codage\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\Registre.AssemblyInfoInputs.cache
+C:\Users\BD\Documents\bloc 2\codage\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\Registre.AssemblyInfo.cs
+C:\Users\BD\Documents\bloc 2\codage\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\Registre.csproj.CoreCompileInputs.cache
+C:\Users\BD\Documents\bloc 2\codage\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\Registre.sourcelink.json
+C:\Users\BD\Documents\bloc 2\codage\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\Registre.dll
+C:\Users\BD\Documents\bloc 2\codage\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\refint\Registre.dll
+C:\Users\BD\Documents\bloc 2\codage\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\Registre.pdb
+C:\Users\BD\Documents\bloc 2\codage\Mes-codes\c#\perso\Registre\obj\Debug\net8.0\ref\Registre.dll
